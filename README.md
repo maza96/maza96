@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🌱 I’m currently studing 2º DAM/DAW
+💬 Ask me about anything
+
 <!--
 **maza96/maza96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
